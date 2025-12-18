@@ -1,0 +1,1297 @@
+{
+  "search": {
+    "location": {
+      "lat": 37.978718,
+      "lon": 23.751395
+    },
+    "check_in": "2025-12-17",
+    "check_out": "2025-12-19",
+    "rooms": 1,
+    "adults": 2,
+    "days_scraped": 2,
+    "fieldset": "rateDetails,rateDetails.policies,rateDetails.bonusRates,rateDetails.upsells,alternatePayments"
+  },
+  "hotels": [
+    {
+      "hotel_code": "ATHGR",
+      "hotel_name": "Athens - City Centre",
+      "address": "Michalacopoulou Street 50, 11528, Athens, Greece",
+      "city": "Athens",
+      "state_province": null,
+      "country": "Greece",
+      "property_url": "http://www.cpathens.com/",
+      "images": [
+        "https://digital.ihg.com/is/image/ihg/crowne-plaza-athens-4758655114-original",
+        "https://digital.ihg.com/is/image/ihg/crowne-plaza-athens-5678953960-original",
+        "https://digital.ihg.com/is/image/ihg/crowne-plaza-athens-8730086612-original",
+        "https://digital.ihg.com/is/image/ihg/crowne-plaza-athens-5678940599-original",
+        "https://digital.ihg.com/is/image/ihg/crowne-plaza-athens-2532893035-original"
+      ],
+      "coordinates": {
+        "latitude": 37.97693,
+        "longitude": 23.75471
+      },
+      "currency": "EUR",
+      "room_categories": {
+        "CSPN": {
+          "category_code": "CSPN",
+          "name": "Premium Room",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 267.9,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 231.13,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "CSTN": {
+          "category_code": "CSTN",
+          "name": "Standard Room",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 203.01,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 166.24,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KEXN": {
+          "category_code": "KEXN",
+          "name": "1 King Bed Premium Lounge Access",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 267.9,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 231.13,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KEXS": {
+          "category_code": "KEXS",
+          "name": "1 King Bed Premium Lounge Access",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 267.9,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 231.13,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TDBN": {
+          "category_code": "TDBN",
+          "name": "2 Double Beds Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 257.09,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 220.32,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TEEN": {
+          "category_code": "TEEN",
+          "name": "2 Single Beds Premium Lounge Access",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 267.9,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 231.13,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TEXN": {
+          "category_code": "TEXN",
+          "name": "2 Double Beds Premium",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 294.94,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 258.17,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TTWN": {
+          "category_code": "TTWN",
+          "name": "2 Single Beds Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 203.01,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 166.24,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TTWS": {
+          "category_code": "TTWS",
+          "name": "2 Single Beds Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 203.01,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 166.24,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "OSNN": {
+          "category_code": "OSNN",
+          "name": "1 Queen Bed Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 203.01,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 166.24,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "OSNS": {
+          "category_code": "OSNS",
+          "name": "1 Queen Bed Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 203.01,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 166.24,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "XKLN": {
+          "category_code": "XKLN",
+          "name": "1 King Bed Junior Suite Lounge Access",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 300.35,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 263.58,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotel_code": "ATHHA",
+      "hotel_name": "Athenaeum Athens",
+      "address": "Syngrou Avenue 89-93, 11745, Athens, Greece",
+      "city": "Athens",
+      "state_province": null,
+      "country": "Greece",
+      "property_url": "www.athenaeumicathens.com",
+      "images": [
+        "https://digital.ihg.com/is/image/ihg/intercontinental-athens-4038301441-original",
+        "https://digital.ihg.com/is/image/ihg/intercontinental-athens-4034981025-original",
+        "https://digital.ihg.com/is/image/ihg/intercontinental-athens-9282384379-original",
+        "https://digital.ihg.com/is/image/ihg/intercontinental-athens-4038603886-original",
+        "https://digital.ihg.com/is/image/ihg/intercontinental-athens-6224701622-original"
+      ],
+      "coordinates": {
+        "latitude": 37.959611,
+        "longitude": 23.721136
+      },
+      "currency": "EUR",
+      "room_categories": {
+        "CSPG": {
+          "category_code": "CSPG",
+          "name": "Classic Room",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 185.11,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 177.38,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KSUG": {
+          "category_code": "KSUG",
+          "name": "1 King Bed Classic",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 185.11,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 177.38,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "XCIG": {
+          "category_code": "XCIG",
+          "name": "1 King Bed One Bedroom Suite Athens City View",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 516.42,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 508.69,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "XSTG": {
+          "category_code": "XSTG",
+          "name": "1 King Bed One Bedroom Suite",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 417.03,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 409.29,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KAGN": {
+          "category_code": "KAGN",
+          "name": "2 Single Beds Classic Lounge Access",
+          "rates": [
+            {
+              "date": "2025-12-18",
+              "cash_rate": 304.38,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KAON": {
+          "category_code": "KAON",
+          "name": "1 King Bed Classic Lounge Access",
+          "rates": [
+            {
+              "date": "2025-12-18",
+              "cash_rate": 304.38,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KAPN": {
+          "category_code": "KAPN",
+          "name": "1 King Bed Classic Athens City View",
+          "rates": [
+            {
+              "date": "2025-12-18",
+              "cash_rate": 243.64,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KDXG": {
+          "category_code": "KDXG",
+          "name": "2 Single Beds Classic",
+          "rates": [
+            {
+              "date": "2025-12-18",
+              "cash_rate": 177.38,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KVUG": {
+          "category_code": "KVUG",
+          "name": "1 King Bed Classic Acropolis View Lounge Access",
+          "rates": [
+            {
+              "date": "2025-12-18",
+              "cash_rate": 376.16,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "XAVN": {
+          "category_code": "XAVN",
+          "name": "1 King Bed and 2 Single Beds Two Bedroom Suite",
+          "rates": [
+            {
+              "date": "2025-12-18",
+              "cash_rate": 674.34,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "CDXG": {
+          "category_code": "CDXG",
+          "name": "Club Access",
+          "rates": [
+            {
+              "date": "2025-12-18",
+              "cash_rate": 302.29,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "XVUG": {
+          "category_code": "XVUG",
+          "name": "1 King Bed Luxury Acropolis View Suite Acropolis View",
+          "rates": [
+            {
+              "date": "2025-12-18",
+              "cash_rate": 1025.23,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotel_code": "ATHEA",
+      "hotel_name": "Athens - Airport",
+      "address": "Attica Avenue, 40.2km, Between Exits 17 And 18, Paiana, 19002, Athens, Greece",
+      "city": "Athens",
+      "state_province": null,
+      "country": "Greece",
+      "property_url": "http://www.hiathens.com",
+      "images": [
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-athens-4766717900-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-athens-2532879543-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-athens-4766717855-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-athens-4259128155-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-athens-5513983980-original"
+      ],
+      "coordinates": {
+        "latitude": 37.972,
+        "longitude": 23.8834
+      },
+      "currency": "EUR",
+      "room_categories": {
+        "CSTN": {
+          "category_code": "CSTN",
+          "name": "Standard Room",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 205.7,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 277.31,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KEXN": {
+          "category_code": "KEXN",
+          "name": "1 King Bed Premium",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 227.73,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 299.34,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KNGN": {
+          "category_code": "KNGN",
+          "name": "1 King Bed Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 205.7,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 277.31,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TEXS": {
+          "category_code": "TEXS",
+          "name": "2 Single Beds Premium",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 227.73,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 299.34,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TTWN": {
+          "category_code": "TTWN",
+          "name": "2 Single Beds Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 205.7,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 277.31,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TTWS": {
+          "category_code": "TTWS",
+          "name": "2 Single Beds Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 205.7,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 277.31,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TWCN": {
+          "category_code": "TWCN",
+          "name": "2 Single Beds",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 205.7,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 277.31,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "OSNN": {
+          "category_code": "OSNN",
+          "name": "1 King Bed Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 205.7,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 277.31,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "XKLN": {
+          "category_code": "XKLN",
+          "name": "1 King Bed Suite",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 370.94,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "CSPN": {
+          "category_code": "CSPN",
+          "name": "Premium Room",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 223.33,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 297.15,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KEXS": {
+          "category_code": "KEXS",
+          "name": "1 King Bed Premium",
+          "rates": [
+            {
+              "date": "2025-12-18",
+              "cash_rate": 299.34,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotel_code": "CHQSQ",
+      "hotel_name": "The Chania Hotel Crete",
+      "address": "1866 Square 16, 73135, Chania, Greece",
+      "city": "Chania",
+      "state_province": null,
+      "country": "Greece",
+      "property_url": null,
+      "images": [
+        "https://digital.ihg.com/is/image/ihg/vignette-collection-chania-10225479431-original",
+        "https://digital.ihg.com/is/image/ihg/vignette-collection-chania-10225479421-original",
+        "https://digital.ihg.com/is/image/ihg/vignette-collection-chania-10225479527-original",
+        "https://digital.ihg.com/is/image/ihg/vignette-collection-chania-10225479168-original",
+        "https://digital.ihg.com/is/image/ihg/vignette-collection-chania-10262416203-original"
+      ],
+      "coordinates": {
+        "latitude": 35.513248,
+        "longitude": 24.017388
+      },
+      "currency": "EUR",
+      "room_categories": {
+        "CPUG": {
+          "category_code": "CPUG",
+          "name": "Premium Room",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 124.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 124.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "CSTG": {
+          "category_code": "CSTG",
+          "name": "Cosy Room",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 109.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 109.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KCQN": {
+          "category_code": "KCQN",
+          "name": "1 King Bed Deluxe Furnished Balcony Minifridge",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 134.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 134.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KGWN": {
+          "category_code": "KGWN",
+          "name": "1 King Bed Junior Suite Furnished Balcony Minifridge",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 144.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 144.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KVIN": {
+          "category_code": "KVIN",
+          "name": "1 King Bed Premium Furnished Balcony Minifridge",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 124.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 124.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TGFN": {
+          "category_code": "TGFN",
+          "name": "2 Twin Beds Deluxe Furnished Balcony Minifridge",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 114.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 114.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TPEN": {
+          "category_code": "TPEN",
+          "name": "2 Twin Beds Premium Furnished Balcony Minifridge",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 119.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 119.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "QVHN": {
+          "category_code": "QVHN",
+          "name": "1 Queen Bed Standard Minifridge",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 109.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 109.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "QXUN": {
+          "category_code": "QXUN",
+          "name": "1 Queen Bed Deluxe Furnished Balcony Minifridge",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 114.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 114.0,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotel_code": "CHQDR",
+      "hotel_name": "La Mer Resort & Spa Crete",
+      "address": "Dramia, Georgioupoli, 73007, Chania, Greece",
+      "city": "Chania",
+      "state_province": null,
+      "country": "Greece",
+      "property_url": "https://www.ihg.com/spnd/hotels/us/en/chania/chqdr/hoteldetail",
+      "images": [
+        "https://digital.ihg.com/is/image/ihg/independent--sphc--chania-10515382585-original",
+        "https://digital.ihg.com/is/image/ihg/independent--sphc--chania-10839747032-original",
+        "https://digital.ihg.com/is/image/ihg/kimpton-chania-10341649094-original",
+        "https://digital.ihg.com/is/image/ihg/independent--sphc--chania-10468110191-original",
+        "https://digital.ihg.com/is/image/ihg/kimpton-chania-10342859037-original"
+      ],
+      "coordinates": {
+        "latitude": 35.350905,
+        "longitude": 24.312341
+      },
+      "currency": null,
+      "room_categories": {}
+    },
+    {
+      "hotel_code": "SKGTI",
+      "hotel_name": "Thessaloniki",
+      "address": "Monastiriou 8, 54629, Thessaloniki, Greece",
+      "city": "Thessaloniki",
+      "state_province": null,
+      "country": "Greece",
+      "property_url": "www.hithessaloniki.gr",
+      "images": [
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-thessaloniki-8783425778-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-thessaloniki-8783437272-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-thessaloniki-3572130152-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-thessaloniki-8875720425-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-thessaloniki-8806330239-original"
+      ],
+      "coordinates": {
+        "latitude": 40.641466,
+        "longitude": 22.933595
+      },
+      "currency": "EUR",
+      "room_categories": {
+        "CSTN": {
+          "category_code": "CSTN",
+          "name": "Standard Room",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 113.91,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 124.58,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TTWN": {
+          "category_code": "TTWN",
+          "name": "2 Single Beds Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 113.91,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 124.58,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TTWS": {
+          "category_code": "TTWS",
+          "name": "2 Single Beds Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 113.91,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 124.58,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "OQNN": {
+          "category_code": "OQNN",
+          "name": "1 Queen Bed Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 113.91,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 124.58,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "OSNN": {
+          "category_code": "OSNN",
+          "name": "1 Double Bed Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 113.91,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 124.58,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "OSNS": {
+          "category_code": "OSNS",
+          "name": "1 Double Bed Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 113.91,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 124.58,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "KSBN": {
+          "category_code": "KSBN",
+          "name": "1 King Bed Suite Single Sofa Bed",
+          "rates": [
+            {
+              "date": "2025-12-18",
+              "cash_rate": 197.33,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "OQNS": {
+          "category_code": "OQNS",
+          "name": "1 Queen Bed Standard",
+          "rates": [
+            {
+              "date": "2025-12-18",
+              "cash_rate": 124.58,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotel_code": "IZMMA",
+      "hotel_name": "Manisa - West",
+      "address": "Kecilikoy Mahallesi, 5608 Sokak No:5, 45030, Manisa, Turkey",
+      "city": "Manisa",
+      "state_province": null,
+      "country": "Turkey",
+      "property_url": "www.hiexmanisa.com",
+      "images": [
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-express-manisa-8914693169-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-express-manisa-8948654335-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-express-manisa-4369954859-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-express-manisa-8928710632-original"
+      ],
+      "coordinates": {
+        "latitude": 38.608498,
+        "longitude": 27.368633
+      },
+      "currency": "EUR",
+      "room_categories": {
+        "CSTN": {
+          "category_code": "CSTN",
+          "name": "Standard Room with Free Breakfast",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 126.02,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 126.02,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "TTWN": {
+          "category_code": "TTWN",
+          "name": "2 Single Beds Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 126.02,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 126.02,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "OSBN": {
+          "category_code": "OSBN",
+          "name": "1 Queen Bed Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 126.02,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 126.02,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "OSNN": {
+          "category_code": "OSNN",
+          "name": "1 Double Bed Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 126.02,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 126.02,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        },
+        "OWRS": {
+          "category_code": "OWRS",
+          "name": "1 King Bed Accessible Room Standard",
+          "rates": [
+            {
+              "date": "2025-12-17",
+              "cash_rate": 126.02,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            },
+            {
+              "date": "2025-12-18",
+              "cash_rate": 126.02,
+              "starting_rate_points": null,
+              "points_cash_extra_cash": null,
+              "points_cash_currency": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotel_code": "DLMKT",
+      "hotel_name": "Kaplankaya",
+      "address": "Bozbuk Mahallesi, Merkez Sokak,, NO: 198, Milas, 48200, Mugla, Turkey",
+      "city": "Mugla",
+      "state_province": null,
+      "country": "Turkey",
+      "property_url": "https://www.sixsenses.com/umbraco/api/IhgRedirectApi/RedirectUrlEncoded",
+      "images": [
+        "https://digital.ihg.com/is/image/ihg/independent-mugla-6660656365-original",
+        "https://digital.ihg.com/is/image/ihg/-mugla-6193739337-original",
+        "https://digital.ihg.com/is/image/ihg/independent-mugla-6660654295-original",
+        "https://digital.ihg.com/is/image/ihg/independent-mugla-6657920635-original",
+        "https://digital.ihg.com/is/image/ihg/six-senses-mugla-6657920980-original"
+      ],
+      "coordinates": {
+        "latitude": 37.357372,
+        "longitude": 27.442024
+      },
+      "currency": null,
+      "room_categories": {}
+    },
+    {
+      "hotel_code": "BJVRT",
+      "hotel_name": "Bodrum",
+      "address": "Eskicesme Mah. Haremtan Sok.No:11, Bodrum, 48400, Mugla, Turkey",
+      "city": "Mugla",
+      "state_province": null,
+      "country": "Turkey",
+      "property_url": "https://www.ihg.com/holidayinnresorts/hotels/us/en/mugla/bjvrt/hoteldetail?cm_mmc=GoogleMaps-_-RS-_-TR-_-BJVRT",
+      "images": [
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-resort-mugla-8881306808-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-resort-mugla-8868640104-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-resort-mugla-8808819187-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-resort-mugla-8868489467-original",
+        "https://digital.ihg.com/is/image/ihg/holiday-inn-resort-mugla-8873992535-original"
+      ],
+      "coordinates": {
+        "latitude": 37.02658,
+        "longitude": 27.41481
+      },
+      "currency": null,
+      "room_categories": {}
+    },
+    {
+      "hotel_code": "HERCT",
+      "hotel_name": "Crete",
+      "address": "Akti Koundourou 17, Agios Nikolaos, 72100, Crete, Greece",
+      "city": "Crete",
+      "state_province": null,
+      "country": "Greece",
+      "property_url": null,
+      "images": [
+        "https://digital.ihg.com/is/image/ihg/intercontinental-crete-10475489185-original",
+        "https://digital.ihg.com/is/image/ihg/intercontinental-crete-9980142005-original",
+        "https://digital.ihg.com/is/image/ihg/-crete-9136903333-original",
+        "https://digital.ihg.com/is/image/ihg/intercontinental-crete-9737529678-original",
+        "https://digital.ihg.com/is/image/ihg/intercontinental-crete-9738380769-original"
+      ],
+      "coordinates": {
+        "latitude": 35.1942273193,
+        "longitude": 25.7170772261
+      },
+      "currency": null,
+      "room_categories": {}
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+requests
+python-dotenv
+Django
+psycopg[binary]
+psycopg2

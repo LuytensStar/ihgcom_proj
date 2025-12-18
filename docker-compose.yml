@@ -1,0 +1,32 @@
+services:
+  db:
+    image: postgres:16
+    container_name: ihg_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-ihg_db}
+      POSTGRES_USER: ${POSTGRES_USER:-ihg_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-ihg_pass}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  web:
+    build: .
+    container_name: ihg_django
+    restart: unless-stopped
+    depends_on:
+      - db
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    command: >
+      sh -c "python manage.py migrate &&
+             python manage.py runserver 0.0.0.0:8000"
+
+volumes:
+  pgdata:

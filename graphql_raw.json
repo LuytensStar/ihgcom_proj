@@ -1,0 +1,477 @@
+{
+  "data": {
+    "getHotels": {
+      "hotelInfo": [
+        {
+          "hotelCode": "ATHGR",
+          "address": {
+            "street1": "Michalacopoulou Street 50",
+            "street2": null,
+            "street3": null,
+            "city": "Athens",
+            "zip": "11528",
+            "state": null,
+            "country": {
+              "name": "Greece",
+              "code": "GR"
+            }
+          },
+          "profile": {
+            "name": "Athens - City Centre",
+            "seoCity": "athens",
+            "nonIhgCrsUrl": null,
+            "independentNonIHGWebsiteURL": "http://www.cpathens.com/",
+            "latLong": {
+              "lon": 23.75471,
+              "lat": 37.97693
+            }
+          },
+          "media": {
+            "primaryPhotos": {
+              "allPhotos": [
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/crowne-plaza-athens-4758655114-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/crowne-plaza-athens-5678953960-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/crowne-plaza-athens-8730086612-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/crowne-plaza-athens-5678940599-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/crowne-plaza-athens-2532893035-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/crowne-plaza-athens-6203434244-original"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "hotelCode": "ATHHA",
+          "address": {
+            "street1": "Syngrou Avenue 89-93",
+            "street2": null,
+            "street3": null,
+            "city": "Athens",
+            "zip": "11745",
+            "state": null,
+            "country": {
+              "name": "Greece",
+              "code": "GR"
+            }
+          },
+          "profile": {
+            "name": "Athenaeum Athens",
+            "seoCity": "athens",
+            "nonIhgCrsUrl": null,
+            "independentNonIHGWebsiteURL": "www.athenaeumicathens.com",
+            "latLong": {
+              "lon": 23.721136,
+              "lat": 37.959611
+            }
+          },
+          "media": {
+            "primaryPhotos": {
+              "allPhotos": [
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/intercontinental-athens-4038301441-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/intercontinental-athens-4034981025-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/intercontinental-athens-9282384379-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/intercontinental-athens-4038603886-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/intercontinental-athens-6224701622-original"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "hotelCode": "ATHEA",
+          "address": {
+            "street1": "Attica Avenue",
+            "street2": "40.2km, Between Exits 17 And 18",
+            "street3": "Paiana",
+            "city": "Athens",
+            "zip": "19002",
+            "state": null,
+            "country": {
+              "name": "Greece",
+              "code": "GR"
+            }
+          },
+          "profile": {
+            "name": "Athens - Airport",
+            "seoCity": "athens",
+            "nonIhgCrsUrl": null,
+            "independentNonIHGWebsiteURL": "http://www.hiathens.com",
+            "latLong": {
+              "lon": 23.8834,
+              "lat": 37.972
+            }
+          },
+          "media": {
+            "primaryPhotos": {
+              "allPhotos": [
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-athens-4766717900-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-athens-2532879543-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-athens-4766717855-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-athens-4259128155-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-athens-5513983980-original"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "hotelCode": "CHQSQ",
+          "address": {
+            "street1": "1866 Square 16",
+            "street2": null,
+            "street3": null,
+            "city": "Chania",
+            "zip": "73135",
+            "state": null,
+            "country": {
+              "name": "Greece",
+              "code": "GR"
+            }
+          },
+          "profile": {
+            "name": "The Chania Hotel Crete",
+            "seoCity": "chania",
+            "nonIhgCrsUrl": null,
+            "independentNonIHGWebsiteURL": null,
+            "latLong": {
+              "lon": 24.017388,
+              "lat": 35.513248
+            }
+          },
+          "media": {
+            "primaryPhotos": {
+              "allPhotos": [
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/vignette-collection-chania-10225479431-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/vignette-collection-chania-10225479421-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/vignette-collection-chania-10225479527-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/vignette-collection-chania-10225479168-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/vignette-collection-chania-10262416203-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/vignette-collection-chania-10225479827-original"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "hotelCode": "CHQDR",
+          "address": {
+            "street1": "Dramia, Georgioupoli",
+            "street2": null,
+            "street3": null,
+            "city": "Chania",
+            "zip": "73007",
+            "state": null,
+            "country": {
+              "name": "Greece",
+              "code": "GR"
+            }
+          },
+          "profile": {
+            "name": "La Mer Resort & Spa Crete",
+            "seoCity": "chania",
+            "nonIhgCrsUrl": null,
+            "independentNonIHGWebsiteURL": "https://www.ihg.com/spnd/hotels/us/en/chania/chqdr/hoteldetail",
+            "latLong": {
+              "lon": 24.312341,
+              "lat": 35.350905
+            }
+          },
+          "media": {
+            "primaryPhotos": {
+              "allPhotos": [
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/independent--sphc--chania-10515382585-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/independent--sphc--chania-10839747032-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/kimpton-chania-10341649094-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/independent--sphc--chania-10468110191-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/kimpton-chania-10342859037-original"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "hotelCode": "SKGTI",
+          "address": {
+            "street1": "Monastiriou 8",
+            "street2": null,
+            "street3": null,
+            "city": "Thessaloniki",
+            "zip": "54629",
+            "state": null,
+            "country": {
+              "name": "Greece",
+              "code": "GR"
+            }
+          },
+          "profile": {
+            "name": "Thessaloniki",
+            "seoCity": "thessaloniki",
+            "nonIhgCrsUrl": null,
+            "independentNonIHGWebsiteURL": "www.hithessaloniki.gr",
+            "latLong": {
+              "lon": 22.933595,
+              "lat": 40.641466
+            }
+          },
+          "media": {
+            "primaryPhotos": {
+              "allPhotos": [
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-thessaloniki-8783425778-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-thessaloniki-8783437272-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-thessaloniki-3572130152-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-thessaloniki-8875720425-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-thessaloniki-8806330239-original"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "hotelCode": "IZMMA",
+          "address": {
+            "street1": "Kecilikoy Mahallesi",
+            "street2": "5608 Sokak No:5",
+            "street3": null,
+            "city": "Manisa",
+            "zip": "45030",
+            "state": null,
+            "country": {
+              "name": "Turkey",
+              "code": "TR"
+            }
+          },
+          "profile": {
+            "name": "Manisa - West",
+            "seoCity": "manisa",
+            "nonIhgCrsUrl": null,
+            "independentNonIHGWebsiteURL": "www.hiexmanisa.com",
+            "latLong": {
+              "lon": 27.368633,
+              "lat": 38.608498
+            }
+          },
+          "media": {
+            "primaryPhotos": {
+              "allPhotos": [
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-express-manisa-8914693169-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-express-manisa-8948654335-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-express-manisa-4369954859-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-express-manisa-8928710632-original"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "hotelCode": "DLMKT",
+          "address": {
+            "street1": "Bozbuk Mahallesi, Merkez Sokak,",
+            "street2": "NO: 198, Milas",
+            "street3": null,
+            "city": "Mugla",
+            "zip": "48200",
+            "state": null,
+            "country": {
+              "name": "Turkey",
+              "code": "TR"
+            }
+          },
+          "profile": {
+            "name": "Kaplankaya",
+            "seoCity": "mugla",
+            "nonIhgCrsUrl": "https://www.sixsenses.com/umbraco/api/IhgRedirectApi/RedirectUrlEncoded",
+            "independentNonIHGWebsiteURL": "https://www.sixsenses.com/en/resorts/kaplankaya",
+            "latLong": {
+              "lon": 27.442024,
+              "lat": 37.357372
+            }
+          },
+          "media": {
+            "primaryPhotos": {
+              "allPhotos": [
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/independent-mugla-6660656365-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/-mugla-6193739337-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/independent-mugla-6660654295-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/independent-mugla-6657920635-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/six-senses-mugla-6657920980-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/independent-mugla-6660654260-original"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "hotelCode": "BJVRT",
+          "address": {
+            "street1": "Eskicesme Mah. Haremtan Sok.No:11",
+            "street2": "Bodrum",
+            "street3": null,
+            "city": "Mugla",
+            "zip": "48400",
+            "state": null,
+            "country": {
+              "name": "Turkey",
+              "code": "TR"
+            }
+          },
+          "profile": {
+            "name": "Bodrum",
+            "seoCity": "mugla",
+            "nonIhgCrsUrl": null,
+            "independentNonIHGWebsiteURL": "https://www.ihg.com/holidayinnresorts/hotels/us/en/mugla/bjvrt/hoteldetail?cm_mmc=GoogleMaps-_-RS-_-TR-_-BJVRT",
+            "latLong": {
+              "lon": 27.41481,
+              "lat": 37.02658
+            }
+          },
+          "media": {
+            "primaryPhotos": {
+              "allPhotos": [
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-resort-mugla-8881306808-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-resort-mugla-8868640104-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-resort-mugla-8808819187-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-resort-mugla-8868489467-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-resort-mugla-8873992535-original"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "hotelCode": "HERCT",
+          "address": {
+            "street1": "Akti Koundourou 17",
+            "street2": "Agios Nikolaos",
+            "street3": null,
+            "city": "Crete",
+            "zip": "72100",
+            "state": null,
+            "country": {
+              "name": "Greece",
+              "code": "GR"
+            }
+          },
+          "profile": {
+            "name": "Crete",
+            "seoCity": "crete",
+            "nonIhgCrsUrl": null,
+            "independentNonIHGWebsiteURL": null,
+            "latLong": {
+              "lon": 25.7170772261,
+              "lat": 35.1942273193
+            }
+          },
+          "media": {
+            "primaryPhotos": {
+              "allPhotos": [
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/intercontinental-crete-10475489185-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/intercontinental-crete-9980142005-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/-crete-9136903333-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/intercontinental-crete-9737529678-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/intercontinental-crete-9738380769-original"
+                },
+                {
+                  "originalUrl": "https://digital.ihg.com/is/image/ihg/intercontinental-crete-9921831035-original"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}
